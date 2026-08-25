@@ -118,7 +118,7 @@ OpenReply is a fork of [instagram-comment-to-dm](https://github.com/im-anishraj/
 
 ## Star the repo
 
-If OpenReply is useful to you, star it. It is the simplest way to help the project reach the next person looking for a free way to do this.
+If OpenReply is useful to you, star it. It is the simplest way to help the project reach the next person looking for a free way to do this. 
 
 ## License
 
